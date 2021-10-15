@@ -12,11 +12,11 @@ After replacing the math and reading scores for Thomas High School with NaN we h
 
 - **How is the district summary affected?**
 
-Before replace
+*Before replace*
 
 ![](https://github.com/Jponce25/School_District_Analysis/blob/f5a9a1f7b70957c22de7e121d0a1fd5025c6663e/Resources/DSBe.png)
 
-After replace
+*After replace*
 
 ![](https://github.com/Jponce25/School_District_Analysis/blob/f5a9a1f7b70957c22de7e121d0a1fd5025c6663e/Resources/DSAf.png)
 
@@ -24,13 +24,25 @@ In the district summary we can observe a small decrease in the % Overall Passing
 
 - **How is the school summary affected?**
 
-Imagen 
+*Before replace*
+
+![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/SSBe.png)
+
+After replace
+
+![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/SSAf.png)
 
 In the school summary we can observe a decrease of three tenths in the % Overall Passing. A small decrease is also observed in the Average Math Score, in the % Passing Math and in the % Passing Reading. However, the Average Reading Score does not decrease in fact increases 0.05
 
 - **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
-Imagen
+*Before replace*
+
+![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/TopBe.png)
+
+*After replace*
+
+![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/TopAf.png)
 
 Sorting the base by the top 5 schools, we can observe that "Thomas High School" remains in the second position. The % Overall Passing only decreased 0.3 and remains above "Griffin High School".
 
@@ -38,25 +50,45 @@ Sorting the base by the top 5 schools, we can observe that "Thomas High School" 
 
 1) Math and reading scores by grade
 
-Imagen
+*After replace*
+
+![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/SGMath.png)![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/SGRead.png)
 
 After substituting the 9th grade scores for NaN, it can be confirmed that only the 9th grade math and reading scores were affected.
 
 2) Scores by school spending
 
-Imagen
+*Before replace*
+
+![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/SSpenBe.png)
+
+*After replace*
+
+![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/SSpenAf.png)
 
 After substituting the ninth grade values ​​at Thomas High School, it can be seen that the spending range per student remains the same ($630-644). Only we can see a small decrease (0.1) in the % Passing Reading.
 
 3) Scores by school size
 
-Imagen
+*Before replace*
 
-Thomas High School remains a medium-sized school, grouping by size there is only a decrease of 0.1 in the % Passing Reading the other values ​​remain the same.
+![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/SZBe.png)
+
+*After replace*
+
+![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/SZAf.png)
+
+Thomas High School remains a medium-sized school, grouping by size there is only a decrease of 0.1 in the % Passing Reading the other values remain the same.
 
 4) Scores by school type
 
-Imagen
+*Before replace*
+
+![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/STBe.png)
+
+*After replace*
+
+![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/STAf.png)
 
 Finally, the grouping by type of school shows us that there is no difference in the data.
 
