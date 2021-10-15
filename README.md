@@ -12,11 +12,11 @@ After replacing the math and reading scores for Thomas High School with NaN we h
 
 - **How is the district summary affected?**
 
-Before replace
+*Before replace*
 
 ![](https://github.com/Jponce25/School_District_Analysis/blob/f5a9a1f7b70957c22de7e121d0a1fd5025c6663e/Resources/DSBe.png)
 
-After replace
+*After replace*
 
 ![](https://github.com/Jponce25/School_District_Analysis/blob/f5a9a1f7b70957c22de7e121d0a1fd5025c6663e/Resources/DSAf.png)
 
@@ -24,7 +24,7 @@ In the district summary we can observe a small decrease in the % Overall Passing
 
 - **How is the school summary affected?**
 
-Before replace
+*Before replace*
 
 ![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/SSBe.png)
 
@@ -36,11 +36,11 @@ In the school summary we can observe a decrease of three tenths in the % Overall
 
 - **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
-Before replace
+*Before replace*
 
 ![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/TopBe.png)
 
-After replace
+*After replace*
 
 ![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/TopAf.png)
 
@@ -50,7 +50,7 @@ Sorting the base by the top 5 schools, we can observe that "Thomas High School" 
 
 1) Math and reading scores by grade
 
-After replace
+*After replace*
 
 ![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/SGMath.png)![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/SGRead.png)
 
@@ -58,11 +58,11 @@ After substituting the 9th grade scores for NaN, it can be confirmed that only t
 
 2) Scores by school spending
 
-Before replace
+*Before replace*
 
 ![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/SSpenBe.png)
 
-After replace
+*After replace*
 
 ![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/SSpenAf.png)
 
@@ -70,9 +70,11 @@ After substituting the ninth grade values ​​at Thomas High School, it can be
 
 3) Scores by school size
 
+*Before replace*
+
 ![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/SZBe.png)
 
-After replace
+*After replace*
 
 ![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/SZAf.png)
 
@@ -80,9 +82,11 @@ Thomas High School remains a medium-sized school, grouping by size there is only
 
 4) Scores by school type
 
+*Before replace*
+
 ![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/STBe.png)
 
-After replace
+*After replace*
 
 ![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/STAf.png)
 
