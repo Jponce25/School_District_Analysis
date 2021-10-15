@@ -14,11 +14,11 @@ After replacing the math and reading scores for Thomas High School with NaN we h
 
 *Before replace*
 
-![](https://github.com/Jponce25/School_District_Analysis/blob/f5a9a1f7b70957c22de7e121d0a1fd5025c6663e/Resources/DSBe.png)
+![](https://github.com/Jponce25/School_District_Analysis/blob/4b070854fa19b616140fb4b50e1c339c8e51dbf1/Images/DSBe.png)
 
 *After replace*
 
-![](https://github.com/Jponce25/School_District_Analysis/blob/f5a9a1f7b70957c22de7e121d0a1fd5025c6663e/Resources/DSAf.png)
+![](https://github.com/Jponce25/School_District_Analysis/blob/4b070854fa19b616140fb4b50e1c339c8e51dbf1/Images/DSAf.png)
 
 In the district summary we can observe a small decrease in the % Overall Passing, with an even smaller decrease in the Average Math Score, in the % Passing Mathen and in the % Passing Reading, However, However, the Average Reading Score remained the same.
 
@@ -52,7 +52,7 @@ Sorting the base by the top 5 schools, we can observe that "Thomas High School" 
 
 *After replace*
 
-![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/SGMath.png)![](https://github.com/Jponce25/School_District_Analysis/blob/60a518f00d070094ceb6d5e85ff175bb0e4ae1d8/Images/SGRead.png)
+![](https://github.com/Jponce25/School_District_Analysis/blob/4b070854fa19b616140fb4b50e1c339c8e51dbf1/Images/SGrade.png)
 
 After substituting the 9th grade scores for NaN, it can be confirmed that only the 9th grade math and reading scores were affected.
 
