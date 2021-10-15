@@ -13,16 +13,11 @@ After replacing the math and reading scores for Thomas High School with NaN we h
 - **How is the district summary affected?**
 
 Before replace
-<<<<<<< HEAD
-![](https://github.com/Jponce25/School_District_Analysis/blob/f5a9a1f7b70957c22de7e121d0a1fd5025c6663e/Resources/DSBe.png)
-After replace
-=======
 
 ![](https://github.com/Jponce25/School_District_Analysis/blob/f5a9a1f7b70957c22de7e121d0a1fd5025c6663e/Resources/DSBe.png)
 
 After replace
 
->>>>>>> cb853ab77ca0243c04c80124ffbb892c33aabb00
 ![](https://github.com/Jponce25/School_District_Analysis/blob/f5a9a1f7b70957c22de7e121d0a1fd5025c6663e/Resources/DSAf.png)
 
 In the district summary we can observe a small decrease in the % Overall Passing, with an even smaller decrease in the Average Math Score, in the % Passing Mathen and in the % Passing Reading, However, However, the Average Reading Score remained the same.
